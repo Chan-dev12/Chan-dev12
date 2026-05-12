@@ -1,10 +1,10 @@
-<!-- <h1 align="center">Hi 👋, I'm Chanthru</h1>
+<h1 align="center">Hi 👋, I'm Chanthru</h1>
 <h3 align="center">AI/ML Engineer | LLM Developer | Computer Vision Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;LLM+Developer;Computer+Vision;Full+Stack+AI+Builder" />
-</p> -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Chanthru%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20LLMs%20%7C%20Computer%20Vision&descAlignY=60)
+</p> 
+
 ---
 
 ## 🚀 Tech Stack
