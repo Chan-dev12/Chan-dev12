@@ -1,4 +1,5 @@
 # Hi, I'm Chanthru 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Chanthru%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20LLMs%20%7C%20Computer%20Vision&descAlignY=60)
 
 ## About Me
 - AI & ML Student at Saveetha Engineering College
