@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chanthru 👋
 
-<!--
-**Chan-dev12/Chan-dev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- AI & ML Student at Saveetha Engineering College
+- Interested in Machine Learning, LLMs, Computer Vision, and RAG Systems
+- Campus Ambassador at Impacteers
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- TensorFlow
+- PyTorch
+- OpenCV
+- LangChain
+- MongoDB
+- React
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### 🚦 Adaptive AI Traffic Signal System
+RL-based smart traffic control using CNN + Actor-Critic + DeepSORT.
+
+### 🧠 SecureXam
+AI-powered online exam proctoring platform.
+
+### 📦 Perish Guard
+AI + IoT smart logistics monitoring system for perishable goods.
+
+## GitHub Stats
+(add stats badges here)
+
+## Connect With Me
+- LinkedIn
+- Email
