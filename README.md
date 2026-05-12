@@ -59,6 +59,11 @@ AI + IoT logistics monitoring system for perishable goods.
 Dual disease detection system for Diabetic Retinopathy and Glaucoma.
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chan-dev12/Chan-dev12/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chanthru26v&label=Profile%20views&color=0e75b6&style=flat" />
