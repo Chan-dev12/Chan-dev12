@@ -26,7 +26,11 @@ AI-powered online exam proctoring platform.
 AI + IoT smart logistics monitoring system for perishable goods.
 
 ## GitHub Stats
-(add stats badges here)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanthru26v&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanthru26v&layout=compact&theme=tokyonight"/>
+</p>
 
 ## Connect With Me
 - LinkedIn
