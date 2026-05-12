@@ -9,14 +9,11 @@
 - Campus Ambassador at Impacteers
 
 ## Tech Stack
-- Python
-- TensorFlow
-- PyTorch
-- OpenCV
-- LangChain
-- MongoDB
-- React
-- Node.js
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb,react,nodejs,express,git,github,docker,linux,vscode" />
+</p>
 
 ## Featured Projects
 ### 🚦 Adaptive AI Traffic Signal System
