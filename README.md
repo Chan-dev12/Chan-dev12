@@ -37,10 +37,10 @@
 
 ## 🏆 Achievements
 
+- 🥇 First Place — Qtuxathon 3.0, Sairam Engineering College
 - 🥈 2nd Runner-Up — AI in Education Hackathon
 - 🚔 Top 36 — Kaaval AI Police Hackathon
-- 💼 AI Intern — dotSolved
-- 🎓 AI/ML Student — Saveetha Engineering College
+- 🤖 Qualified for Round 2 — Google Gen AI Hackathon
 
 ---
 
