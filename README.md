@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | LLM Developer | Computer Vision Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;LLM+Developer;Computer+Vision;Full+Stack+AI+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;LLM+Developer;Full+Stack+AI+Builder" />
 </p> 
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb,react,nodejs,express,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb,react,nodejs,express,git,github,vscode" />
 </p>
 
 ---
@@ -19,9 +19,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanthru26v&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chan-dev12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanthru26v&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chan-dev12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
