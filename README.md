@@ -101,9 +101,7 @@ Dual disease detection system for Diabetic Retinopathy and Glaucoma.
   <a href="mailto:chanthru26v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="YOUR_MEDIUM_LINK_HERE">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium" />
-  </a>
+ 
 </p>
 
 <p align="center">
