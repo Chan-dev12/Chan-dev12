@@ -73,22 +73,15 @@ Dual disease detection system for Diabetic Retinopathy and Glaucoma.
 
 ---
 
-## ✍️ CTF Writeups
-
-<p align="center">
-  <a href="YOUR_MEDIUM_LINK_HERE">
-    <img src="https://img.shields.io/badge/Medium-CTF%20Writeups-black?style=for-the-badge&logo=medium" />
-  </a>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chan-dev12/Chan-dev12/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chan-dev12/Chan-dev12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chan-dev12/Chan-dev12/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Chan-dev12/Chan-dev12/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## 💬 Quote
@@ -102,7 +95,7 @@ Dual disease detection system for Diabetic Retinopathy and Glaucoma.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK_HERE">
+  <a href="https://www.linkedin.com/in/chanthru-v/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:chanthru26v@gmail.com">
