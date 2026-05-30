@@ -66,5 +66,5 @@ Dual disease detection system for Diabetic Retinopathy and Glaucoma.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chanthru26v&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Chan-dev12&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
