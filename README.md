@@ -41,9 +41,8 @@
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="<img src="https://github-readme-streak-stats-eight.vercel.app?user=Chan-dev12&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Chan-dev12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
