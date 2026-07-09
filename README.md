@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanthru</h1>
-<h3 align="center">AI/ML Engineer | LLM Developer | Computer Vision Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | LLM Developer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;LLM+Developer;Full+Stack+AI+Builder" />
