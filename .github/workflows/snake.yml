@@ -25,6 +25,16 @@ jobs:
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
+        continue-on-error: true
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Retry push to output branch
+        if: failure()
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
